@@ -48,3 +48,4 @@ python3 gkg.py
 ```sh
 python3 kg.py
 ```
+Comment out Headless browser variable to see payloads in action. (Many tabs will open in your chrome browser GUI)
