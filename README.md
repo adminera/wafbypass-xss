@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="static/wafbypassxss1.png" alt="wafbypass" width="250px">
+  <img src="static/wafbypassxss.png" alt="wafbypass" width="250px">
   <br>
 </h1>
 
@@ -27,3 +27,24 @@ Together, these scripts provide a robust toolkit for security researchers to ide
 
 # Features
 
+- Payload Generation, Creates diverse XSS payloads through mutations like encoding, case changes, and noise insertion, with support for regex-based patterns.
+- Automated Testing: Uses Selenium with a headless Chrome browser to test payloads concurrently, logging successful executions to a file.
+- Scalability: Supports chunked output for large payload sets and multi-threaded testing to handle high volumes efficiently.
+
+# Install
+
+```sh
+pip install -r requirements.txt
+```
+
+# Post-Installation
+
+```sh
+python3 gkg.py
+```
+
+# Usage
+
+```sh
+python3 kg.py
+```
