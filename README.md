@@ -1,2 +1,29 @@
-# wafbypass-xss
-Python tool to find payload that bypasses WAF defense for XSS attack
+<h1 align="center">
+  <img src="static/" alt="wafbypass" width="150px">
+  <br>
+</h1>
+
+<h4 align="center">Web Application Firewall Bypass For XSS Vulnerability Testing</h4>
+
+<p align="center">
+  <a href="#Features">Features</a> •
+  <a href="#Install">Install</a> •
+  <a href="#Post-Installation">Post Installation</a> •
+  <a href="#Usage">Usage</a> 
+  
+</p>
+
+---
+
+`wafbypass-xss` consists of two Python scripts, gkg.py and kg.py, designed to generate and test Cross-Site Scripting (XSS) payloads for web security testing.
+
+gkg.py generates a large set of mutated XSS payloads from a base input file, leveraging techniques like HTML/URL encoding, string reversal, and regex-based generation.
+
+kg.py automates the testing of these payloads against a target URL using a headless Chrome browser to detect successful XSS executions.
+
+Together, these scripts provide a robust toolkit for security researchers to identify XSS vulnerabilities in web applications.
+
+---
+
+# Features
+
