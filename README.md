@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="static/" alt="wafbypass" width="150px">
+  <img src="static/wafbypassxss.png" alt="wafbypass" width="250px">
   <br>
 </h1>
 
