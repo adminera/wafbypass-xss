@@ -1,6 +1,6 @@
 ## Disclaimer
 
-You expressly understand and agree that subshot (creators and contributors) shall not be liable for any damages or losses resulting from your use of this tool or third-party products that use it.
+You expressly understand and agree that wafbypass-xss (creators and contributors) shall not be liable for any damages or losses resulting from your use of this tool or third-party products that use it.
 
 Creators aren't in charge of any and have/has no responsibility for any kind of:
 
